@@ -1,0 +1,7 @@
+{
+    "browser": "Chrome",
+    "headless": false,
+    "width": 1680,
+    "height": 841,
+    "base_url": "https://twitter.com/"
+}
